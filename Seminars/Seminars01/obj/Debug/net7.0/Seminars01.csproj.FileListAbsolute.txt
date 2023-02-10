@@ -1,0 +1,15 @@
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/bin/Debug/net7.0/Seminars01
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/bin/Debug/net7.0/Seminars01.deps.json
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/bin/Debug/net7.0/Seminars01.runtimeconfig.json
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/bin/Debug/net7.0/Seminars01.dll
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/bin/Debug/net7.0/Seminars01.pdb
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.csproj.AssemblyReference.cache
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.AssemblyInfoInputs.cache
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.AssemblyInfo.cs
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.csproj.CoreCompileInputs.cache
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.dll
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/refint/Seminars01.dll
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.pdb
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/Seminars01.genruntimeconfig.cache
+/Users/alinalevina/Desktop/Seminars#/Seminars/Seminars01/obj/Debug/net7.0/ref/Seminars01.dll
