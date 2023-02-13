@@ -18,11 +18,13 @@
 //    min = num1;
 //    Console.WriteLine($"Число {max} больше чем {min}");
 // }
+
+
 //_____________Задача 2 (4)___________
 // int[] num = new int[3];
 // int count, max;
 // count = 0;
-// Console.WriteLine("Введите три числа:");
+// Console.WriteLine("Введите три числа (через enter):");
 // while (count <= 2)
 // {
 //    num[count] = Convert.ToInt32(Console.ReadLine());
@@ -44,3 +46,17 @@
 //    count++;
 // }
 // Console.WriteLine($"Ваше максимальное число - {max}");
+
+
+//______________Задача 3(6)___________
+// Console.WriteLine("Введите число:");
+// int num = Convert.ToInt32(Console.ReadLine());
+
+// if (num % 2 == 0)
+// {
+//    Console.WriteLine($"Ваше число {num}, является четным");
+// }
+// else
+// {
+//    Console.WriteLine($"Ваше число {num}, является нечетным");
+// }
