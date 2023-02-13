@@ -60,3 +60,23 @@
 // {
 //    Console.WriteLine($"Ваше число {num}, является нечетным");
 // }
+
+//______________Задача 4(8)__________
+// Console.WriteLine("Ведите число:");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int current = 0;
+// Console.WriteLine($"Все четные числа от нуля до числа {num}:");
+
+// while (num >= current)
+// {
+//    current = current + 2;
+//    Console.Write($"{current}, ");
+//    if (current + 1 == num)
+//    {
+//       current = current + 2;
+//    }
+//    else
+//    {
+
+//    }
+// }

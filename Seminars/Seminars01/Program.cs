@@ -24,6 +24,7 @@
 // {
 //    Console.WriteLine("first number is not quad second number");
 // }
+
 //Задача 4 Напишите программу, которая на вход принимает число (N), а на выходе все целые числа в промежуточном от -N до N.
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
 // 2 -> " -2, -1, 0, 1, 2"
@@ -37,13 +38,16 @@
 //    Console.Write(current + " ");
 //    current++;
 // }
+
+
 //1. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает **последнюю** цифру этого числа.
 //456 -> 6
 //782 -> 2
 //918 -> 8
-Console.WriteLine("Input number three digit ");
-int num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Input number three digit ");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-int result = num % 10;
+// int result = num % 10;
 
-Console.WriteLine($"last digit of {num} is {result}");
+// Console.WriteLine($"last digit of {num} is {result}");
+
