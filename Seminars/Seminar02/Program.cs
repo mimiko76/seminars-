@@ -33,9 +33,8 @@
 // int num = new Random().Next(100, 1000);
 // Console.WriteLine(num);
 
-// int result = DeleteDecimal(randomnumber);
-// Console.WriteLine(result);
-// Console.WriteLine(DeleteDecimal(randomnumber));
+// int result = DeliteDecimal(num);
+// Console.WriteLine(DeliteDecimal(num));
 
 
 // Напишите программу, которая принимает на вход число и проверяет, 

@@ -8,6 +8,8 @@
 // int num = Convert.ToInt32(Console.ReadLine());
 // int quad = num * num;
 // Console.WriteLine($"Quad of {num} is {quad}");
+
+
 //Задача3 Напишите программу которая принимает на вход два числа и проверяет, является ли ервое число квадратом второго
 // Console.WriteLine("Input first number:");
 // int num1 = Convert.ToInt32(Console.ReadLine());
