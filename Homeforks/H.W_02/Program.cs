@@ -12,7 +12,7 @@
 //    Console.WriteLine("Вы не ввели трехзначное число, Пожалуйста повторите ввод");
 //    return;
 // }
-// Console.WriteLine($"Введеное число {number}");
+// Console.WriteLine($"Введено число {number}");
 // int SecondRank = number / 10 % 10;
 // Console.WriteLine($"Вторая цифра {SecondRank}");
 

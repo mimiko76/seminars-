@@ -27,7 +27,7 @@
 // if (result == 1) { Console.WriteLine($"Число {num} является полиндоромом"); }
 // else { Console.WriteLine($"Число {num} не является полиндромом"); }
 // Console.WriteLine(MyString.Remove(6, 1)); //первая цифра означает с какого индекса
-// начать удалять, вторая цифра ообозначает сколько символов удалить
+// начать удалять, вторая цифра обозначает сколько символов удалить
 
 
 //_________________Задача 21______________
@@ -39,17 +39,17 @@
 //    Math.Pow(zb - za, 2)), 2);
 // }
 
-// Console.WriteLine("Введите первую кординату X:");
+// Console.WriteLine("Введите первую координату X:");
 // double xa = Convert.ToDouble(Console.ReadLine());
-// Console.WriteLine("Введите первую кординату Y:");
+// Console.WriteLine("Введите первую координату Y:");
 // double ya = Convert.ToDouble(Console.ReadLine());
-// Console.WriteLine("Введите первую кординату Z:");
+// Console.WriteLine("Введите первую координату Z:");
 // double za = Convert.ToDouble(Console.ReadLine());
-// Console.WriteLine("Введите вторую кординату X:");
+// Console.WriteLine("Введите вторую координату X:");
 // double xb = Convert.ToDouble(Console.ReadLine());
-// Console.WriteLine("Введите вторую кординату Y:");
+// Console.WriteLine("Введите вторую координату Y:");
 // double yb = Convert.ToDouble(Console.ReadLine());
-// Console.WriteLine("Введите вторую кординату Z:");
+// Console.WriteLine("Введите вторую координату Z:");
 // double zb = Convert.ToDouble(Console.ReadLine());
 
 // Console.WriteLine($"Расстояние между двумя точками -> {FindDistance(xa, ya, za, xb, yb, zb)}");
